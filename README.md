@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome 👋
 
-<!--
-**LisandroMarcho/LisandroMarcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Networking enthusiast, DevOps candidate.
 
-Here are some ideas to get you started:
+## Formation 🎓
+ - Google IT Support
+ - Técnico en Informática Personal y Profesional (High School Degree, Spanish)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills ✨
+ - HTML, CSS and JS
+ - NodeJS, PHP and MySQL
+ - Linux and Docker, Virtual Machines
+ - CloudFlare DNS, Netlify and GitHub Pages
+
+## Learning ⚙
+ - Cloud Services
+ - Python
+ - Kubernetes
+
+Checkout my profile: [marchionni.ml](https://marchionni.ml)
