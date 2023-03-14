@@ -17,4 +17,4 @@ Networking enthusiast, DevOps candidate.
  - Python
  - Kubernetes
 
-Checkout my profile: [marchionni.ml](https://marchionni.ml)
+Checkout my profile: [lichodev.com.ar](https://lichodev.com.ar)
